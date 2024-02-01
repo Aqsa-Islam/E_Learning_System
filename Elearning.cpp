@@ -16,4 +16,8 @@ void CourseManagement
 {
 cout<<"CRUD operations performed by Instructor"<<endl;
 }
+void StudentEnrollment
+{
+cout<<"Students can browse courses and enroll them"<<endl;
+}
 };
