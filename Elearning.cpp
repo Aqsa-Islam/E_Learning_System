@@ -12,4 +12,8 @@ void userAuthentication
 {
 cout<<"Implementing user Authentication"<<endl;
 }
+void CourseManagement
+{
+cout<<"CRUD operations performed by Instructor"<<endl;
+}
 };
