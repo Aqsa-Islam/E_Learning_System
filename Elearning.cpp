@@ -20,4 +20,8 @@ void StudentEnrollment
 {
 cout<<"Students can browse courses and enroll them"<<endl;
 }
+void Grading
+{
+cout<<"Students can view their grades"<<endl;
+}
 };
